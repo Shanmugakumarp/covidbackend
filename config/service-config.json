@@ -1,0 +1,11 @@
+{
+    "app_config": {
+        "host": "localhost",
+        "port": "8080"
+    },
+    "db_config": {
+        "host": "127.0.0.1",
+        "db_name": "covidtracker"
+    },
+    "connectionString": "mongo://localhost/covidtracker"
+}
